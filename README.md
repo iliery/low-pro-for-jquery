@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
