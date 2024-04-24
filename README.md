@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
