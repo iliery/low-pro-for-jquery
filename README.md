@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
